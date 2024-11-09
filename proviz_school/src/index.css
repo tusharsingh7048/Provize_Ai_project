@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  color:black;
+}
+
+
+/* index.css or App.css */
+/* index.css or App.css */
+body {
+  background-image: url('./assets/bg.jpg'); /* Make sure to replace with the correct path */
+  background-size: cover; /* Ensures the image covers the entire viewport */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Keeps the image in place while scrolling */
+  background-position: center; /* Centers the image */
+}
+
+
+
+
+
+
